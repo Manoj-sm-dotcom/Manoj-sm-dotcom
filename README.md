@@ -15,12 +15,12 @@ I enjoy solving real-world problems through data and continuously expanding my k
 - Improving model deployment skills using FastAPI and Streamlit
 
 ## 📚 Recent Projects:
-- ✨ [Automated_MCQ_Generator](https://colab.research.google.com/drive/1zVa-VDBSgs2RLDSJbKgwaJdDs5T9MgWY?usp=sharing):
-- 🤖 [Chest_X_Ray_image_Classification](https://colab.research.google.com/drive/1IAdrJVMPHlh7WyVWc7KSGUHa1XknjVyv?usp=sharing): 
-- 📈 [Stock closing price prediction using Sentiment analysis and Machinelearning](https://colab.research.google.com/drive/193i_Exa5Ax6ySEvnhhH43uspRlpOgtKL?usp=sharing):
+- ✨ [Automated_MCQ_Generator](https://colab.research.google.com/drive/1zVa-VDBSgs2RLDSJbKgwaJdDs5T9MgWY?usp=sharing)
+- 🤖 [Chest_X_Ray_image_Classification](https://colab.research.google.com/drive/1IAdrJVMPHlh7WyVWc7KSGUHa1XknjVyv?usp=sharing)
+- 📈 [Stock closing price prediction using Sentiment analysis and Machinelearning](https://colab.research.google.com/drive/193i_Exa5Ax6ySEvnhhH43uspRlpOgtKL?usp=sharing)
 
 ## 📫 How to Reach Me
-- Email: [mail_to_manoj](mailto:manojsm474@gmail.com)
+- Email: [Email_to_manoj](mailto:manojsm474@gmail.com)
 - LinkedIn: [view_Linkedin_Profile](https://www.linkedin.com/in/manoj-s-m-1100841a0/)
 
 ---
